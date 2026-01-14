@@ -1,0 +1,8 @@
+{
+  "name": "Timelex Modern",
+  "description": "A sophisticated time tracking and earnings management application for professionals, featuring real-time tracking, smart reporting, and project organization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

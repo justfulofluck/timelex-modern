@@ -1,0 +1,196 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+[11/Jan/2026 12:23:59] "OPTIONS /api/tasks/ HTTP/1.1" 200 0
+[11/Jan/2026 12:23:59] "OPTIONS /api/projects/ HTTP/1.1" 200 0
+[11/Jan/2026 12:23:59] "OPTIONS /api/clients/ HTTP/1.1" 200 0
+[11/Jan/2026 12:23:59] "GET /media/timex-logo.png HTTP/1.1" 200 298780
+[11/Jan/2026 12:23:59] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:23:59] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:23:59] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:36] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:36] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:36] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:37] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:37] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:37] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:46] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:46] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:26:46] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:27:57] "GET /media/timex-logo.png HTTP/1.1" 304 0
+[11/Jan/2026 12:27:58] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:27:58] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:27:58] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:28:35] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:28:36] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:28:36] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:34:47] "GET /media/timex-logo.png HTTP/1.1" 304 0
+[11/Jan/2026 12:34:48] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:34:48] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:34:48] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:36:49] "GET /media/timex-logo.png HTTP/1.1" 200 298780
+[11/Jan/2026 12:36:49] "OPTIONS /api/tasks/ HTTP/1.1" 200 0
+[11/Jan/2026 12:36:49] "OPTIONS /api/projects/ HTTP/1.1" 200 0
+[11/Jan/2026 12:36:49] "OPTIONS /api/clients/ HTTP/1.1" 200 0
+[11/Jan/2026 12:36:49] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:36:49] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:36:49] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:36:59] "GET /media/timex-logo.png HTTP/1.1" 200 298780
+[11/Jan/2026 12:36:59] "OPTIONS /api/projects/ HTTP/1.1" 200 0
+[11/Jan/2026 12:36:59] "OPTIONS /api/clients/ HTTP/1.1" 200 0
+[11/Jan/2026 12:36:59] "OPTIONS /api/tasks/ HTTP/1.1" 200 0
+[11/Jan/2026 12:36:59] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:36:59] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:36:59] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:37:57] "GET /media/timex-logo.png HTTP/1.1" 200 298780
+[11/Jan/2026 12:37:57] "OPTIONS /api/tasks/ HTTP/1.1" 200 0
+[11/Jan/2026 12:37:57] "OPTIONS /api/projects/ HTTP/1.1" 200 0
+[11/Jan/2026 12:37:57] "OPTIONS /api/clients/ HTTP/1.1" 200 0
+[11/Jan/2026 12:37:57] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:37:57] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:37:57] "GET /api/projects/ HTTP/1.1" 200 2
+Bad Request: /api/login/
+[11/Jan/2026 12:38:11] "POST /api/login/ HTTP/1.1" 400 31
+[11/Jan/2026 12:38:22] "POST /api/login/ HTTP/1.1" 200 131
+[11/Jan/2026 12:38:23] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:38:23] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:38:23] "GET /api/clients/ HTTP/1.1" 200 2
+[11/Jan/2026 12:44:43] "POST /api/clients/ HTTP/1.1" 201 74
+[11/Jan/2026 12:45:17] "GET /media/timex-logo.png HTTP/1.1" 200 298780
+[11/Jan/2026 12:45:33] "OPTIONS /api/login/ HTTP/1.1" 200 0
+[11/Jan/2026 12:45:34] "POST /api/login/ HTTP/1.1" 200 155
+[11/Jan/2026 12:45:34] "OPTIONS /api/tasks/ HTTP/1.1" 200 0
+[11/Jan/2026 12:45:34] "OPTIONS /api/projects/ HTTP/1.1" 200 0
+[11/Jan/2026 12:45:34] "OPTIONS /api/clients/ HTTP/1.1" 200 0
+[11/Jan/2026 12:45:34] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:45:34] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:45:34] "GET /api/clients/ HTTP/1.1" 200 76
+/home/bhavan/Project/pynatic/timelex-modern/backend-timelex/core/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 11, 2026 - 12:15:04
+Django version 6.0, using settings 'timelex_backend.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[11/Jan/2026 12:53:47] "GET /media/timex-logo.png HTTP/1.1" 304 0
+[11/Jan/2026 12:53:47] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:53:47] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:53:47] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:53:50] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:53:50] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:53:50] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:54:10] "GET /media/timex-logo.png HTTP/1.1" 200 298780
+[11/Jan/2026 12:54:10] "OPTIONS /api/projects/ HTTP/1.1" 200 0
+[11/Jan/2026 12:54:10] "OPTIONS /api/tasks/ HTTP/1.1" 200 0
+[11/Jan/2026 12:54:10] "OPTIONS /api/clients/ HTTP/1.1" 200 0
+[11/Jan/2026 12:54:11] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:54:11] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:54:11] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:54:16] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:54:16] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:54:16] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:54:36] "POST /api/login/ HTTP/1.1" 200 169
+[11/Jan/2026 12:54:36] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:54:36] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:54:36] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:56:25] "GET /media/timex-logo.png HTTP/1.1" 200 298780
+[11/Jan/2026 12:56:25] "OPTIONS /api/tasks/ HTTP/1.1" 200 0
+[11/Jan/2026 12:56:25] "OPTIONS /api/projects/ HTTP/1.1" 200 0
+[11/Jan/2026 12:56:25] "OPTIONS /api/clients/ HTTP/1.1" 200 0
+[11/Jan/2026 12:56:25] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:56:25] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:56:25] "GET /api/projects/ HTTP/1.1" 200 2
+[11/Jan/2026 12:56:52] "POST /api/projects/ HTTP/1.1" 201 107
+[11/Jan/2026 12:57:11] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 12:57:11] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:57:11] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:57:32] "POST /api/login/ HTTP/1.1" 200 169
+[11/Jan/2026 12:57:32] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:57:32] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 12:57:32] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:57:51] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:57:51] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 12:57:51] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:58:35] "OPTIONS /api/projects/1/ HTTP/1.1" 200 0
+[11/Jan/2026 12:58:35] "PATCH /api/projects/1/ HTTP/1.1" 200 107
+[11/Jan/2026 12:58:51] "POST /api/login/ HTTP/1.1" 200 169
+[11/Jan/2026 12:58:51] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 12:58:51] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:58:51] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:59:57] "POST /api/login/ HTTP/1.1" 200 148
+[11/Jan/2026 12:59:58] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 12:59:58] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 12:59:58] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:02:46] "OPTIONS /api/projects/1/ HTTP/1.1" 200 0
+[11/Jan/2026 13:02:46] "PATCH /api/projects/1/ HTTP/1.1" 200 107
+[11/Jan/2026 13:04:06] "GET /media/timex-logo.png HTTP/1.1" 304 0
+[11/Jan/2026 13:04:07] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:04:07] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:04:07] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:04:20] "POST /api/login/ HTTP/1.1" 200 169
+[11/Jan/2026 13:04:20] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:04:20] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:04:20] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:05:29] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:05:29] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:05:29] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:05:29] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:05:29] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:05:29] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:05:30] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:05:30] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:05:30] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:05:31] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:05:31] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:05:31] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:05:54] "PATCH /api/projects/1/ HTTP/1.1" 200 107
+[11/Jan/2026 13:06:10] "POST /api/login/ HTTP/1.1" 200 169
+[11/Jan/2026 13:06:10] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:06:10] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:06:10] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:09:56] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:09:56] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:09:56] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:10:29] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:10:29] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:10:29] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:11:55] "POST /api/login/ HTTP/1.1" 200 169
+[11/Jan/2026 13:11:56] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:11:56] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:11:56] "GET /api/clients/ HTTP/1.1" 200 76
+Bad Request: /api/tasks/
+[11/Jan/2026 13:12:16] "POST /api/tasks/ HTTP/1.1" 400 89
+[11/Jan/2026 13:13:31] "POST /api/login/ HTTP/1.1" 200 148
+[11/Jan/2026 13:13:31] "GET /media/timex-logo.png HTTP/1.1" 304 0
+[11/Jan/2026 13:13:32] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:13:32] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:13:32] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:16:59] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:16:59] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:16:59] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:16:59] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:16:59] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:16:59] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:17:47] "POST /api/login/ HTTP/1.1" 200 169
+[11/Jan/2026 13:17:48] "GET /api/tasks/ HTTP/1.1" 200 2
+[11/Jan/2026 13:17:48] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:17:48] "GET /api/clients/ HTTP/1.1" 200 76
+[11/Jan/2026 13:18:17] "POST /api/tasks/ HTTP/1.1" 201 221
+[11/Jan/2026 13:18:38] "POST /api/login/ HTTP/1.1" 200 148
+[11/Jan/2026 13:18:38] "GET /api/projects/ HTTP/1.1" 200 109
+[11/Jan/2026 13:18:38] "GET /api/tasks/ HTTP/1.1" 200 223
+[11/Jan/2026 13:18:38] "GET /api/clients/ HTTP/1.1" 200 76
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 11, 2026 - 12:53:41
+Django version 6.0, using settings 'timelex_backend.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
